@@ -1,0 +1,3 @@
+[submodule "sub-progect"]
+	path = sub-progect
+	url = git@github.com:takunton/sub-progect.git
